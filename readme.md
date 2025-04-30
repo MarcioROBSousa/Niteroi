@@ -8,7 +8,6 @@ Seja bem-vindo(a) ao meu mini-projeto em HTML, CSS e JavaScript que te leva para
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tema](https://img.shields.io/badge/Tema-Niterói-00BFFF?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
 ![Layout](https://img.shields.io/badge/Layout-Responsivo-brightgreen?style=for-the-badge)
 
 
