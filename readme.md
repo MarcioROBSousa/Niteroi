@@ -28,6 +28,7 @@ Seja bem-vindo(a) ao meu mini-projeto em HTML, CSS e JavaScript que te leva para
 
 🎯 Objetivo
 
-Esse projeto foi criado como exercício de prática, mas acima de tudo, para divulgar uma cidade incrível com um toque de código e bom humor. Quem disse que aprender web não pode ser divertido?
+Esse projeto foi criado como exercício de prática, mas acima de tudo, para divulgar uma cidade incrível com um toque de código e bom humor. 
+Quem disse que aprender web não pode ser divertido?
 
 ---
