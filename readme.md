@@ -11,7 +11,7 @@ Seja bem-vindo(a) ao meu mini-projeto em HTML, CSS e JavaScript que te leva para
 ![Layout](https://img.shields.io/badge/Layout-Responsivo-brightgreen?style=for-the-badge)
 
 <p align="center">
-  <img src="img/filme.jpg" alt="Game" width="500"/>
+  <img src="mac.jpg" alt="Game" width="300"/>
 </p>
 ## 🛠️ Tecnologias Usadas
 
