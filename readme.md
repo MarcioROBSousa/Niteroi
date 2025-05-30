@@ -10,7 +10,9 @@ Seja bem-vindo(a) ao meu mini-projeto em HTML, CSS e JavaScript que te leva para
 ![Tema](https://img.shields.io/badge/Tema-Niterói-00BFFF?style=for-the-badge)
 ![Layout](https://img.shields.io/badge/Layout-Responsivo-brightgreen?style=for-the-badge)
 
-
+<p align="center">
+  <img src="img/filme.jpg" alt="Game" width="500"/>
+</p>
 ## 🛠️ Tecnologias Usadas
 
 - 🧱 HTML5 (estrutura da página)
